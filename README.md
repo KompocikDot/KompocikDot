@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KompocikDot also known as Kacper
-- 👀 I’m interested in football, f1 and making backend
-- 🌱 I’m currently learning Rust, Golang and Maths
+- 👋 Hi, I’m @KompocikDot and my name is Kacper
+- 👀 I’m interested in football, F1, automating things and passionate about making backend
+- 🌱 I’m currently learning Rust and mathematics
 - 📫 You can reach me via email: kacper.soczko@gmail.com or through discord: kompocik#2649
 
 <!---
