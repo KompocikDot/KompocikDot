@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KompocikDot and my name is Kacper
 - 👀 I’m interested in football, F1, automating things and passionate about making backend
 - 🌱 I’m currently learning Rust and I'm willing to learn new language like Spanish or Russian
-- 📫 You can reach me via email: kacper.soczko@gmail.com or through discord: kompocik#2649
+- 📫 You can reach me via email: kacper.soczko@gmail.com or through [linkedin](https://pl.linkedin.com/in/kacper-soczko)
 
 
 
