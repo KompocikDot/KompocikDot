@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @KompocikDot and my name is Kacper
-- 👀 I’m interested in any kind of sports, F1, travelling around the 🌍 and passionate about cooking
-- 🌱 I’m currently learning Go + Russian and I'm willing to learn new language like Spanish or Italian
-- 📫 You can reach me via email: kacper.soczko@gmail.com or through [linkedin](https://pl.linkedin.com/in/kacper-soczko)
+# 👋 Hey, my name's Kacper, but you can call me Kompocik 😉
+## My interests
+- Any kind of sports - including motorsport (I love F1)
+- Travelling around the 🌍 and meeting new cultures
+- Passionate about cooking - especially Asian cusine
+
+## Currently learning
+- Go
+- Vue + NuxtJS
+- Russian, but willing to also learn Spanish or Italian (or both!)
+
+## Want to talk? You can contact me through
+- [Email](mailto:kacper.soczko@gmail.com)
+- [Linkedin](https://linkedin.com/in/kacper-soczko)
 
 
 
